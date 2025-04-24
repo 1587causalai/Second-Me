@@ -1,8 +1,4 @@
 *   [首页](README.md)
-*   背景与协作
-    *   [项目元提示词](collaboration/context-and-roles.md)
-    *   [AI 对话记录](analysis-dialogue-log.md)
-    *   [一个关于侧边栏和"魔法"短语的小故事](collaboration/sidebar-resize-story.md)
 
 *   基础性思考 (Foundational Thinking)
     *   [概述](foundational-thinking/README.md)
@@ -32,3 +28,9 @@
     *   [GraphRAG/知识图谱的必要性](FAQ/necessity-of-graphrag.md)
     *   [模型对齐方法 (SFT/DPO/LoRA)](FAQ/alignment-methods.md)
     *   [L0 层的复杂性与成本效益](FAQ/L0-complexity-concerns.md) 
+
+
+*   **附录: doc 分支背景与协作**
+    *   [项目元提示词](collaboration/context-and-roles.md)
+    *   [AI 对话记录](analysis-dialogue-log.md)
+    *   [一个关于侧边栏和"魔法"短语的小故事](collaboration/sidebar-resize-story.md)

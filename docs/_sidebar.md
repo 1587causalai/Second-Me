@@ -10,7 +10,6 @@
 *  系统设计与实现
     *   [架构设计概览](architecture.md)    <!-- # 重点解释 How (整体) -->
     *   [核心逻辑解读](core-logic-explained.md)   <!-- # 重点解释 What & Why -->
-    *   [个性化价值场景分析](foundational-thinking/personalization-scenario-analysis.md) <!-- New analysis doc -->
     *   HMM 层级详解 (HMM Layer Details) 
         *   [L0: 输入处理与洞察生成](layer-analysis/L0-deep-dive.md)
         *   [L1: 特征提取与结构化记忆](layer-analysis/L1-deep-dive.md)

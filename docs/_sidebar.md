@@ -9,6 +9,7 @@
     *   [用户信息表征 (三层结构方案)](foundational-thinking/foundational-3layer-user-representation.md)
     *   [核心机制：用户信息注入提示词](foundational-thinking/injecting-user-info-into-prompts.md)
     *   [个性化的价值场景思考](foundational-thinking/personalization-scenario-analysis.md)
+    *   [AI 角色定位：工具 vs. 良师益友](foundational-thinking/ai-role-tool-vs-mentor.md)
 
 *  系统设计与实现
     *   [架构设计概览](architecture.md)    <!-- # 重点解释 How (整体) -->

@@ -5,6 +5,7 @@
     *   [个性化的价值场景思考](foundational-thinking/personalization-scenario-analysis.md)
     *   [AI 角色定位：工具 vs. 良师益友](foundational-thinking/ai-role-tool-vs-mentor.md)
     *   [我的三层结构实践](foundational-thinking/me-3layer-poc.md)
+    *   [未来应用前景展望](foundational-thinking/future-application-prospects.md)
 
 *  系统设计与实现
     *   [架构设计概览](architecture.md)    <!-- # 重点解释 How (整体) -->
